@@ -1,0 +1,13 @@
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\bin\Debug\AdventureSim.exe.config
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\bin\Debug\AdventureSim.exe
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\bin\Debug\AdventureSim.pdb
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\obj\Debug\AdventureSim.csproj.AssemblyReference.cache
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\obj\Debug\AdventureSim.Properties.Resources.resources
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\obj\Debug\AdventureSim.csproj.GenerateResource.cache
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\obj\Debug\AdventureSim.csproj.CoreCompileInputs.cache
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\obj\Debug\AdventureSim.exe
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\obj\Debug\AdventureSim.pdb
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\obj\Debug\AdventureSim.exe.config
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\obj\Debug\AdventureSim.Main.resources
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\obj\Debug\AdventureSim.Defeat.resources
+C:\Users\Dunaw\OneDrive\Documents\GitHub\MSPC\Week1\AdventureSim\AdventureSim\obj\Debug\AdventureSim.Victory.resources
